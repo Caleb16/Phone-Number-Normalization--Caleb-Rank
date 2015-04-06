@@ -1,0 +1,12 @@
+C:\Users\Caleb\Documents\GitHub\Phone-Number-Normalization\Phone-Number-Normalization\bin\Debug\Phone-Number-Normalization.exe.config
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\bin\Debug\Phone-Number-Normalization.exe.config
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\bin\Debug\Phone-Number-Normalization.exe
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\bin\Debug\Phone-Number-Normalization.pdb
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\bin\Debug\Phone-Number-Normalization.xml
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone_Number_Normalization.Form1.resources
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone_Number_Normalization.Resources.resources
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone-Number-Normalization.vbproj.GenerateResource.Cache
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone-Number-Normalization.exe
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone-Number-Normalization.xml
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone-Number-Normalization.pdb
+C:\Users\Caleb\Documents\Visual Studio 2013\Projects\Phone-Number-Normalization\Phone-Number-Normalization\obj\Debug\Phone-Number-Normalization.vbprojResolveAssemblyReference.cache
